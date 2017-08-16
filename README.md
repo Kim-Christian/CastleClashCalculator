@@ -1,3 +1,4 @@
+# CastleClashCalculator
 Namn: Castle Clash Calculator - Kurs: Programmering mot mobilplattform1, iOS Android - Operativsystem: Android
 
 Bakgrund: Castle Clash är ett strategispel där sammansättningen av karaktärer och stärkande faktorer är ytterst viktig. Olika sammansättningar krävs beroende på vilket "mode" man spelar. Denna kalkylator ger spelare möjligheten att enkelt optimera sina sammansättningar utan att besitta specifik kunskap om matematiken bakom spelet. Denna app är ett efterfrågat verktyg och bidrar till en bättre spelupplevelse.
